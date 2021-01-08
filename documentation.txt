@@ -1,0 +1,36 @@
+***********************************************************
+Structure
+***********************************************************
+
+[ public ]
+-----------
+css
+js
+img
+
+[ resourse /views /site / layouts ]
+-----------------------------------
+app
+
+[ resourse /views /site / layouts /partials ]
+---------------------------------------------
+Banner
+categories
+cagegory_side_menu
+featured
+footer
+header_banner
+header_menu
+header
+latest_product
+
+[ resourse /views /site ]
+------------------------
+blog-deatils
+checkout
+contact
+main
+shop-Details
+shop-grid
+shoppong-Cart
+welcome 

@@ -1,0 +1,35 @@
+/* Main colour: #2980b9 */
+/* Secondary Colour: #4834d4 */
+.hidden {
+    display: none;
+}
+
+.header__cart__login {
+  margin-left: 2rem;
+  color: #2980b9;
+}
+.header__cart__login:hover {
+  color:#4834d4;
+}
+.header__cart {
+  padding-bottom: 0px;
+}
+
+@media (max-width: 991.98px)  {
+  .header__cart {
+    padding-top: 70px;
+  }
+}
+
+.hero__search {
+  padding-top:20px;
+  margin:0;
+}
+/* Latest Banner */
+.latest_banner__img {
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 180px;
+}
